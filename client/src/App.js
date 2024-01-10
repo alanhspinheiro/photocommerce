@@ -5,7 +5,7 @@ import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
 //pages
 import Home from "./pages/Home";
 import Products from "./pages/Products";
-import ProdunctDetails from "./pages/ProductDetails";
+import ProductDetails from "./pages/ProductDetails";
 import Search from "./pages/Search";
 
 //components
